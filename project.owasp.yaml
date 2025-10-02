@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Andrew Ash
+    email: andrew.ash@owasp.org
+  - name: Andy Still
+    email: andrew.still@owasp.org
+  - name: Matt Gracey-McMinn
+    email: matthew.gracey.mcminn@owasp.org
+level: 2
+name: OWASP BLADE Framework
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-blade-framework
+    url: https://github.com/OWASP/www-project-blade-framework
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-blade-framework
